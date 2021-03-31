@@ -1,0 +1,4 @@
+# .properties = spring.application.name=checkout-api
+spring:
+  application:
+    name: checkout-api

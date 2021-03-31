@@ -1,0 +1,4 @@
+# .properties = spring.application.name=payment-api
+#spring:
+#  application:
+#    name: payment-api
